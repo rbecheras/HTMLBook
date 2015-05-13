@@ -1,4 +1,4 @@
-=== HTMLBook Specification Draft
+# HTMLBook Specification Draft
 
 This specification file is originaly written by Oreilly Media.
 
